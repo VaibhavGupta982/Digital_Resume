@@ -1,4 +1,4 @@
-# vivekkashyap.github.io
+#vaibhav.gupta.i
 
 This is my small portfolio.
 It contains my education, past experiences and my projects.
